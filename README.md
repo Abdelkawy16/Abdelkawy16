@@ -1,78 +1,117 @@
-👋 Hi, I'm Mustafa Abdelkawy
+<div align="center">
 
-<p align="left">
-<a href="https://www.google.com/search?q=https://linkedin.com/in/mustafa-abdelkawy16"><img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" /></a>
-<a href="mailto:mustafa.abdelkawy16@gmail.com"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" /></a>
+<h1>👋 Hi, I'm Mustafa Abdelkawy</h1>
+
+<p>
+  <strong>Software Engineer</strong> • 3+ years building <strong>web-based 3D applications & simulations</strong><br>
+  Specializing in the <strong>AEC industry</strong> — bridging engineering precision with high-performance web graphics
 </p>
 
-🚀 Software Engineer & 3D Specialist
+</div>
 
-I am a Software Engineer with 3+ years of experience specializing in web-based 3D applications and simulations for the AEC (Architecture, Engineering, and Construction) industry. I focus on bridging the gap between high-fidelity engineering requirements and performant web graphics.
+<br>
 
-🎓 Professional Background
+## 🌱 About Me
 
-Computer Science: Postgraduate Diploma from Cairo University.
+- 🎓 **B.Sc. Civil Engineering** (Honors) + Postgraduate Diploma in **Computer Science**
+- 🚀 Currently: Software Engineer at **Crowdbuild** — architecting interactive 3D visualization experiences
+- 💡 Focus: Responsive UIs + Performant graphics pipelines + Reliable cloud backends
 
-Civil Engineering: B.Sc. (Honors) from Kafr Elsheikh University.
+“Turning engineering blueprints into interactive digital experiences.”
 
-Current Focus: Architecting 3D visualizations at Crowdbuild.
+<br>
 
-🛠️ Technical Toolkit
+## 🛠️ Tech Stack
 
-Category
+<table>
+  <thead>
+    <tr>
+      <th>Category</th>
+      <th>Technologies</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Graphics & 3D</strong></td>
+      <td>WebGL • Three.js • React Three Fiber (R3F) • OpenGL • Unity Engine</td>
+    </tr>
+    <tr>
+      <td><strong>Frontend</strong></td>
+      <td>React.js • Next.js • Angular • TypeScript • Tailwind CSS • Bootstrap</td>
+    </tr>
+    <tr>
+      <td><strong>Backend</strong></td>
+      <td>C# • ASP.NET Core • Node.js • Entity Framework Core • WPF</td>
+    </tr>
+    <tr>
+      <td><strong>Databases</strong></td>
+      <td>MongoDB • SQL Server</td>
+    </tr>
+    <tr>
+      <td><strong>Languages & Tools</strong></td>
+      <td>C/C++ • Python • JSON • Git • GitHub • Google Cloud Platform</td>
+    </tr>
+  </tbody>
+</table>
 
-Skills & Technologies
+<br>
 
-Graphics & 3D
+## 🚀 Featured Projects
 
-Three.js React Three Fiber (R3F) WebGL OpenGL Unity
+<table>
+  <tr>
+    <th>Project</th>
+    <th>Description</th>
+    <th>Core Tech</th>
+  </tr>
+  <tr>
+    <td><strong>Designi</strong></td>
+    <td>Precision geometric manipulation tool for architectural design & land division</td>
+    <td>React • Next.js • Three.js • React Three Fiber</td>
+  </tr>
+  <tr>
+    <td><strong>Smart Home Designer</strong></td>
+    <td>Extracts building data from architectural plans → exports interactive 3D models</td>
+    <td>ASP.NET Core • Three.js</td>
+  </tr>
+  <tr>
+    <td><strong>STITCHER</strong></td>
+    <td>Desktop application for processing architectural plans into 3D models</td>
+    <td>C# • WPF</td>
+  </tr>
+  <tr>
+    <td><strong>عباد الرحمن</strong></td>
+    <td>AI-powered Qur'anic chat for retrieving Ayah, Surah & related information</td>
+    <td>React • Next.js</td>
+  </tr>
+</table>
 
-Frontend
+<br>
 
-React.js Next.js Angular TypeScript Tailwind CSS
+## 💞️ Open to Collaboration
 
-Backend & Dev
+Looking to contribute to projects that explore:
 
-C# .NET Core Node.js EF Core WPF GCP
+- 🔮 Advanced **Three.js / WebGL** rendering techniques  
+- 🏗️ **BIM** (Building Information Modeling) on the web  
+- 📐 Computational design & geometry processing  
 
-Data
+→ Feel free to reach out if you're working on something exciting in these areas!
 
-MongoDB SQL Server JSON
+<br>
 
-📂 Featured Projects
+## 📫 Let's Connect
 
-Designi
-
-Precision Geometric Manipulation > A web application for architectural land division and geometric modeling.
-React Next.js Three.js R3F
-
-Smart Home Designer
-
-BIM to 3D > Extracting building information from architectural plans to generate interactive 3D models.
-ASP.NET Core Three.js WebGL
-
-عباد الرحمن
-
-AI-Powered Qur'anic Chat > Intelligent retrieval system for Ayah and Surah information.
-Next.js AI Integration
-
-💞️ Collaboration & Interests
-
-I am passionate about contributing to projects involving:
-
-Web-based Rendering Pipelines (GLSL, Post-processing).
-
-Digital Twins and real-time simulation environments.
-
-BIM Data Visualization and automation tools.
-
-📊 GitHub Stats
-
-<p align="left">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DAbdelkawy16%26show_icons%3Dtrue%26theme%3Dradical" alt="Mustafa's Stats" height="150" />
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DAbdelkawy16%26layout%3Dcompact%26theme%3Dradical" alt="Top Languages" height="150" />
+<p align="center">
+  <a href="mailto:mustafa.abdelkawy16@gmail.com">
+    <img src="https://img.shields.io/badge/Email-mustafa.abdelkawy16@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://linkedin.com/in/mustafa-abdelkawy16">
+    <img src="https://img.shields.io/badge/LinkedIn-mustafa--abdelkawy16-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
 </p>
 
 <p align="center">
-<i>"Turning engineering blueprints into interactive digital experiences."</i>
+  <em>Excited to turn more blueprints into immersive digital experiences — let's build something great together! 🚀</em>
 </p>
