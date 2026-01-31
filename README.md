@@ -1,67 +1,78 @@
-👋 Hi, I’m Mustafa Abdelkawy
+👋 Hi, I'm Mustafa Abdelkawy
 
-I am a Software Engineer with 3+ years of experience specializing in web-based 3D applications and simulations for the AEC (Architecture, Engineering, and Construction) industry. I specialize in bridging the gap between engineering precision and performant web graphics.
+<p align="left">
+<a href="https://www.google.com/search?q=https://linkedin.com/in/mustafa-abdelkawy16"><img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" /></a>
+<a href="mailto:mustafa.abdelkawy16@gmail.com"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" /></a>
+</p>
 
-👀 About Me
+🚀 Software Engineer & 3D Specialist
 
-🎓 Background: B.Sc. in Civil Engineering (Honors) + Postgraduate Diploma in Computer Science.
+I am a Software Engineer with 3+ years of experience specializing in web-based 3D applications and simulations for the AEC (Architecture, Engineering, and Construction) industry. I focus on bridging the gap between high-fidelity engineering requirements and performant web graphics.
 
-🚀 Current Role: Software Engineer at Crowdbuild, architecting interactive 3D visualizations.
+🎓 Professional Background
 
-💡 Expertise: Developing responsive UIs, performant graphics pipelines, and reliable cloud-hosted backend services.
+Computer Science: Postgraduate Diploma from Cairo University.
+
+Civil Engineering: B.Sc. (Honors) from Kafr Elsheikh University.
+
+Current Focus: Architecting 3D visualizations at Crowdbuild.
 
 🛠️ Technical Toolkit
 
 Category
 
-Technologies
+Skills & Technologies
 
 Graphics & 3D
 
-WebGL, Three.js, React Three Fiber (R3F), OpenGL, Unity Engine
+Three.js React Three Fiber (R3F) WebGL OpenGL Unity
 
 Frontend
 
-React.js, Next.js, Angular, TypeScript, Tailwind CSS, Bootstrap
+React.js Next.js Angular TypeScript Tailwind CSS
 
-Backend
+Backend & Dev
 
-C#, ASP.NET Core, Node.js, EF Core, WPF
+C# .NET Core Node.js EF Core WPF GCP
 
-Databases
+Data
 
-MongoDB, SQL Server
+MongoDB SQL Server JSON
 
-Languages & Tools
+📂 Featured Projects
 
-C/C++, Python, JSON, Git, GitHub, GCP Services
+Designi
 
-🚀 Featured Projects
+Precision Geometric Manipulation > A web application for architectural land division and geometric modeling.
+React Next.js Three.js R3F
 
-Designi: A web application for precision geometric manipulation in architectural design and land division (React, Next.js, Three.js, R3F).
+Smart Home Designer
 
-Smart Home Designer: Web app that extracts building information from architectural plans to export 3D models (ASP.NET Core, Three.js).
+BIM to 3D > Extracting building information from architectural plans to generate interactive 3D models.
+ASP.NET Core Three.js WebGL
 
-STITCHER: Desktop WPF application for processing architectural plans into 3D models (C#, WPF).
+عباد الرحمن
 
-عباد الرحمن: AI-powered chat application for retrieving Qur'anic Ayah and Surah information (React, Next.js).
+AI-Powered Qur'anic Chat > Intelligent retrieval system for Ayah and Surah information.
+Next.js AI Integration
 
-💞️ Collaboration Interests
+💞️ Collaboration & Interests
 
-I’m looking to contribute to repositories that push the boundaries of:
+I am passionate about contributing to projects involving:
 
-Three.js & WebGL rendering techniques.
+Web-based Rendering Pipelines (GLSL, Post-processing).
 
-BIM (Building Information Modeling) web integrations.
+Digital Twins and real-time simulation environments.
 
-Computational design and geometry processing.
+BIM Data Visualization and automation tools.
 
-📫 Let's Connect
+📊 GitHub Stats
 
-📧 Email: mustafa.abdelkawy16@gmail.com
+<p align="left">
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DAbdelkawy16%26show_icons%3Dtrue%26theme%3Dradical" alt="Mustafa's Stats" height="150" />
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DAbdelkawy16%26layout%3Dcompact%26theme%3Dradical" alt="Top Languages" height="150" />
+</p>
 
-💼 LinkedIn: linkedin.com/in/mustafa-abdelkawy16
-
-🌐 Portfolio: Check out my repositories below!
-
-“Turning engineering blueprints into interactive digital experiences.”
+<p align="center">
+<i>"Turning engineering blueprints into interactive digital experiences."</i>
+</p>
