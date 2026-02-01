@@ -3,7 +3,7 @@
 <h1>👋 Hi, I'm Mustafa Abdelkawy</h1>
 
 <p>
-  <strong>Software Engineer</strong> • 3+ years building <strong>web-based 3D applications & simulations</strong><br>
+  <strong>Software Engineer</strong> • 4+ years building <strong>web-based 3D applications & simulations</strong><br>
   Specializing in the <strong>AEC industry</strong> — bridging engineering precision with high-performance web graphics
 </p>
 
